@@ -19,8 +19,8 @@
         <mxCell id="VBW7iPe001slst5hB6Jn-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;金额正数校验&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="971" y="359" width="180" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="VBW7iPe001slst5hB6Jn-13" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;进入余额中心&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="930" y="86" width="170" height="82" as="geometry" />
+        <mxCell id="VBW7iPe001slst5hB6Jn-13" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;申请成为商家&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="295" y="182" width="170" height="82" as="geometry" />
         </mxCell>
         <mxCell id="VBW7iPe001slst5hB6Jn-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.439;exitY=-0.036;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.309;entryY=0.913;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VBW7iPe001slst5hB6Jn-9" target="VBW7iPe001slst5hB6Jn-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -267,6 +267,9 @@
         </mxCell>
         <mxCell id="VBW7iPe001slst5hB6Jn-123" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-411" y="3526" width="365" height="174" as="geometry" />
+        </mxCell>
+        <mxCell id="y0ZW329S-HRgTneR2oXN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.038;entryY=0.339;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VBW7iPe001slst5hB6Jn-1" target="VBW7iPe001slst5hB6Jn-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
